@@ -1,18 +1,1 @@
-{
-  "name": "Naâma",
-  "wilayacode": "45",
-  "communes": [
-    { "postalcode": "45001", "name": "Naama" },
-    { "postalcode": "45002", "name": "Mechria" },
-    { "postalcode": "45003", "name": "Ain Sefra" },
-    { "postalcode": "45004", "name": "Tiout" },
-    { "postalcode": "45005", "name": "Sfissifa" },
-    { "postalcode": "45006", "name": "Moghrar" },
-    { "postalcode": "45007", "name": "Assela" },
-    { "postalcode": "45008", "name": "Djeniane Bourzeg" },
-    { "postalcode": "45009", "name": "Ain Ben Khelil" },
-    { "postalcode": "45010", "name": "Makman Ben Amer" },
-    { "postalcode": "45011", "name": "Kasdir" },
-    { "postalcode": "45012", "name": "El Biod" }
-  ]
-}
+{"name":"Naâma","wilayacode":"45","communes":[{"postalcode":"45001","name":"Naama"},{"postalcode":"45002","name":"Mechria"},{"postalcode":"45003","name":"Ain Sefra"},{"postalcode":"45004","name":"Tiout"},{"postalcode":"45005","name":"Sfissifa"},{"postalcode":"45006","name":"Moghrar"},{"postalcode":"45007","name":"Assela"},{"postalcode":"45008","name":"Djeniane Bourzeg"},{"postalcode":"45009","name":"Ain Ben Khelil"},{"postalcode":"45010","name":"Makman Ben Amer"},{"postalcode":"45011","name":"Kasdir"},{"postalcode":"45012","name":"El Biod"}]}

@@ -1,12 +1,1 @@
-{
-  "name": "Illizi",
-  "wilayacode": "33",
-  "communes": [
-    { "postalcode": "33001", "name": "Illizi" },
-    { "postalcode": "33002", "name": "Djanet" },
-    { "postalcode": "33003", "name": "Debdeb" },
-    { "postalcode": "33004", "name": "Bordj Omar Driss" },
-    { "postalcode": "33005", "name": "Bordj El Haouasse" },
-    { "postalcode": "33006", "name": "In Amenas" }
-  ]
-}
+{"name":"Illizi","wilayacode":"33","communes":[{"postalcode":"33001","name":"Illizi"},{"postalcode":"33002","name":"Djanet"},{"postalcode":"33003","name":"Debdeb"},{"postalcode":"33004","name":"Bordj Omar Driss"},{"postalcode":"33005","name":"Bordj El Haouasse"},{"postalcode":"33006","name":"In Amenas"}]}

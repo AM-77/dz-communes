@@ -1,16 +1,1 @@
-{
-  "name": "Tamanrasset",
-  "wilayacode": "11",
-  "communes": [
-    { "postalcode": "11001", "name": "Tamanghasset" },
-    { "postalcode": "11002", "name": "Abalessa" },
-    { "postalcode": "11003", "name": "In Ghar" },
-    { "postalcode": "11004", "name": "In Guezzam" },
-    { "postalcode": "11005", "name": "Idles" },
-    { "postalcode": "11006", "name": "Tazouk" },
-    { "postalcode": "11007", "name": "Tinzaouatine" },
-    { "postalcode": "11008", "name": "In Salah" },
-    { "postalcode": "11009", "name": "In Amguel" },
-    { "postalcode": "11010", "name": "Foggaret Ezzaouia" }
-  ]
-}
+{"name":"Tamanrasset","wilayacode":"11","communes":[{"postalcode":"11001","name":"Tamanghasset"},{"postalcode":"11002","name":"Abalessa"},{"postalcode":"11003","name":"In Ghar"},{"postalcode":"11004","name":"In Guezzam"},{"postalcode":"11005","name":"Idles"},{"postalcode":"11006","name":"Tazouk"},{"postalcode":"11007","name":"Tinzaouatine"},{"postalcode":"11008","name":"In Salah"},{"postalcode":"11009","name":"In Amguel"},{"postalcode":"11010","name":"Foggaret Ezzaouia"}]}
