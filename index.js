@@ -1,5 +1,5 @@
 
-module.exports.dz_communes = {
+module.exports = {
   wilayas: require("./data/wilayas.json"),
   communes: require("./data/communes.json"),
   wilayas_communes: require("./data/wilayas-communes.json"),
