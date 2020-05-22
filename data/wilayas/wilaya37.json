@@ -1,0 +1,8 @@
+{
+  "name": "Tindouf",
+  "wilayacode": "37",
+  "communes": [
+    { "postalcode": "37001", "name": "Tindouf" },
+    { "postalcode": "37002", "name": "Oum El Assel" }
+  ]
+}

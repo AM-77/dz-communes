@@ -1,0 +1,18 @@
+{
+  "name": "Constantine",
+  "wilayacode": "25",
+  "communes": [
+    { "postalcode": "25001", "name": "Constantine" },
+    { "postalcode": "25002", "name": "Hamma Bouziane" },
+    { "postalcode": "25003", "name": "El Haria" },
+    { "postalcode": "25004", "name": "Zighoud Youcef" },
+    { "postalcode": "25005", "name": "Didouche Mourad" },
+    { "postalcode": "25006", "name": "El Khroub" },
+    { "postalcode": "25007", "name": "Ain Abid" },
+    { "postalcode": "25008", "name": "Beni Hamiden" },
+    { "postalcode": "25009", "name": "Ouled Rahmoune" },
+    { "postalcode": "25010", "name": "Ain Smara" },
+    { "postalcode": "25011", "name": "Mesaoud Boudjeriou" },
+    { "postalcode": "25012", "name": "Ibn Ziad" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Khenchela",
+  "wilayacode": "40",
+  "communes": [
+    { "postalcode": "40001", "name": "Khenchela" },
+    { "postalcode": "40002", "name": "Mtoussa" },
+    { "postalcode": "40003", "name": "Kais" },
+    { "postalcode": "40004", "name": "Baghai" },
+    { "postalcode": "40005", "name": "El Hamma" },
+    { "postalcode": "40006", "name": "Ain Touila" },
+    { "postalcode": "40007", "name": "Taouzianat" },
+    { "postalcode": "40008", "name": "Bouhmama" },
+    { "postalcode": "40009", "name": "El Oueldja" },
+    { "postalcode": "40010", "name": "Remila" },
+    { "postalcode": "40011", "name": "Cherchar" },
+    { "postalcode": "40012", "name": "Djellal" },
+    { "postalcode": "40013", "name": "Babar" },
+    { "postalcode": "40014", "name": "Tamza" },
+    { "postalcode": "40015", "name": "Ensigha" },
+    { "postalcode": "40016", "name": "Ouled Rechache" },
+    { "postalcode": "40017", "name": "El Mahmal" },
+    { "postalcode": "40018", "name": "Msara" },
+    { "postalcode": "40019", "name": "Yabous" },
+    { "postalcode": "40020", "name": "Khirane" },
+    { "postalcode": "40021", "name": "Chelia" }
+  ]
+}

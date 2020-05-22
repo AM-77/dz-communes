@@ -1,0 +1,22 @@
+{
+  "name": "Saïda",
+  "wilayacode": "20",
+  "communes": [
+    { "postalcode": "20001", "name": "Saida" },
+    { "postalcode": "20002", "name": "Doui Thabet" },
+    { "postalcode": "20003", "name": "Ain El Hadjar" },
+    { "postalcode": "20004", "name": "Ouled Khaled" },
+    { "postalcode": "20005", "name": "Moulay Larbi" },
+    { "postalcode": "20006", "name": "Youb" },
+    { "postalcode": "20007", "name": "Hounet" },
+    { "postalcode": "20008", "name": "Sidi Amar" },
+    { "postalcode": "20009", "name": "Sidi Boubekeur" },
+    { "postalcode": "20010", "name": "El Hassasna" },
+    { "postalcode": "20011", "name": "Maamora" },
+    { "postalcode": "20012", "name": "Sidi Ahmed" },
+    { "postalcode": "20013", "name": "Ain Sekhouna" },
+    { "postalcode": "20014", "name": "Ouled Brahim" },
+    { "postalcode": "20015", "name": "Tircine" },
+    { "postalcode": "20016", "name": "Ain Soltane" }
+  ]
+}

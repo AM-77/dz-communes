@@ -1,0 +1,18 @@
+{
+  "name": "Annaba",
+  "wilayacode": "23",
+  "communes": [
+    { "postalcode": "23001", "name": "Annaba" },
+    { "postalcode": "23002", "name": "Berrahel" },
+    { "postalcode": "23003", "name": "El Hadjar" },
+    { "postalcode": "23004", "name": "Eulma" },
+    { "postalcode": "23005", "name": "El Bouni" },
+    { "postalcode": "23006", "name": "Oued El Aneb" },
+    { "postalcode": "23007", "name": "Cheurfa" },
+    { "postalcode": "23008", "name": "Seraidi" },
+    { "postalcode": "23009", "name": "Ain Berda" },
+    { "postalcode": "23010", "name": "Chetaibi" },
+    { "postalcode": "23011", "name": "Sidi Amer" },
+    { "postalcode": "23012", "name": "Treat" }
+  ]
+}

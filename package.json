@@ -1,0 +1,22 @@
+{
+  "name": "dz-communes",
+  "version": "1.0.0",
+  "description": "A list of all of the 48 wilayas of Algeria and their communes.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AM-77/dz-communes.git"
+  },
+  "keywords": [
+    "Algeria",
+    "DZ",
+    "Communes",
+    "Wilayas"
+  ],
+  "author": "AM-77",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AM-77/dz-communes/issues"
+  },
+  "homepage": "https://github.com/AM-77/dz-communes#readme"
+}

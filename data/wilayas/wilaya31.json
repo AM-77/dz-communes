@@ -1,0 +1,32 @@
+{
+  "name": "Oran",
+  "wilayacode": "31",
+  "communes": [
+    { "postalcode": "31001", "name": "Oran" },
+    { "postalcode": "31002", "name": "Gdyel" },
+    { "postalcode": "31003", "name": "Bir El Djir" },
+    { "postalcode": "31004", "name": "Hassi Bounif" },
+    { "postalcode": "31005", "name": "Es Senia" },
+    { "postalcode": "31006", "name": "Arzew" },
+    { "postalcode": "31007", "name": "Bethioua" },
+    { "postalcode": "31008", "name": "Marsat El Hadjadj" },
+    { "postalcode": "31009", "name": "Ain Turk" },
+    { "postalcode": "31010", "name": "El Ancar" },
+    { "postalcode": "31011", "name": "Oued Tlelat" },
+    { "postalcode": "31012", "name": "Tafraoui" },
+    { "postalcode": "31013", "name": "Sidi Chami" },
+    { "postalcode": "31014", "name": "Boufatis" },
+    { "postalcode": "31015", "name": "Mers El Kebir" },
+    { "postalcode": "31016", "name": "Bousfer" },
+    { "postalcode": "31017", "name": "El Karma" },
+    { "postalcode": "31018", "name": "El Braya" },
+    { "postalcode": "31019", "name": "Hassi Ben Okba" },
+    { "postalcode": "31020", "name": "Ben Freha" },
+    { "postalcode": "31021", "name": "Hassi Mefsoukh" },
+    { "postalcode": "31022", "name": "Sidi Ben Yabka" },
+    { "postalcode": "31023", "name": "Messerghin" },
+    { "postalcode": "31024", "name": "Boutlelis" },
+    { "postalcode": "31025", "name": "Ain Kerma" },
+    { "postalcode": "31026", "name": "Ain Biya" }
+  ]
+}

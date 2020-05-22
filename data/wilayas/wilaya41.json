@@ -1,0 +1,32 @@
+{
+  "name": "Souk Ahras",
+  "wilayacode": "41",
+  "communes": [
+    { "postalcode": "41001", "name": "Souk Ahras" },
+    { "postalcode": "41002", "name": "Sedrata" },
+    { "postalcode": "41003", "name": "Hanancha" },
+    { "postalcode": "41004", "name": "Mechroha" },
+    { "postalcode": "41005", "name": "Ouled Driss" },
+    { "postalcode": "41006", "name": "Tiffech" },
+    { "postalcode": "41007", "name": "Zaarouria" },
+    { "postalcode": "41008", "name": "Taoura" },
+    { "postalcode": "41009", "name": "Drea" },
+    { "postalcode": "41010", "name": "Haddada" },
+    { "postalcode": "41011", "name": "Khedara" },
+    { "postalcode": "41012", "name": "Merahna" },
+    { "postalcode": "41013", "name": "Ouled Moumen" },
+    { "postalcode": "41014", "name": "Bir Bouhouche" },
+    { "postalcode": "41015", "name": "Mdaourouche" },
+    { "postalcode": "41016", "name": "Oum El Adhaim" },
+    { "postalcode": "41017", "name": "Ain Zana" },
+    { "postalcode": "41018", "name": "Ain Soltane" },
+    { "postalcode": "41019", "name": "Quillen" },
+    { "postalcode": "41020", "name": "Sidi Fredj" },
+    { "postalcode": "41021", "name": "Safel El Ouiden" },
+    { "postalcode": "41022", "name": "Ragouba" },
+    { "postalcode": "41023", "name": "Khemissa" },
+    { "postalcode": "41024", "name": "Oued Keberit" },
+    { "postalcode": "41025", "name": "Terraguelt" },
+    { "postalcode": "41026", "name": "Zouabi" }
+  ]
+}

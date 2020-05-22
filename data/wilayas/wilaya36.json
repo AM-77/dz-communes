@@ -1,0 +1,30 @@
+{
+  "name": "El Tarf",
+  "wilayacode": "36",
+  "communes": [
+    { "postalcode": "36001", "name": "El Tarf" },
+    { "postalcode": "36002", "name": "Bouhadjar" },
+    { "postalcode": "36003", "name": "Ben Mhidi" },
+    { "postalcode": "36004", "name": "Bougous" },
+    { "postalcode": "36005", "name": "El Kala" },
+    { "postalcode": "36006", "name": "Ain El Assel" },
+    { "postalcode": "36007", "name": "El Aioun" },
+    { "postalcode": "36008", "name": "Bouteldja" },
+    { "postalcode": "36009", "name": "Souarekh" },
+    { "postalcode": "36010", "name": "Berrihane" },
+    { "postalcode": "36011", "name": "Lac Des Oiseaux" },
+    { "postalcode": "36012", "name": "Chefia" },
+    { "postalcode": "36013", "name": "Drean" },
+    { "postalcode": "36014", "name": "Chihani" },
+    { "postalcode": "36015", "name": "Chebaita Mokhtar" },
+    { "postalcode": "36016", "name": "Besbes" },
+    { "postalcode": "36017", "name": "Asfour" },
+    { "postalcode": "36018", "name": "Echatt" },
+    { "postalcode": "36019", "name": "Zerizer" },
+    { "postalcode": "36020", "name": "Zitouna" },
+    { "postalcode": "36021", "name": "Ain Kerma" },
+    { "postalcode": "36022", "name": "Oued Zitoun" },
+    { "postalcode": "36023", "name": "Hammam Beni Salah" },
+    { "postalcode": "36024", "name": "Raml Souk" }
+  ]
+}

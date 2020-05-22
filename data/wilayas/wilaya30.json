@@ -1,0 +1,27 @@
+{
+  "name": "Ouargla",
+  "wilayacode": "30",
+  "communes": [
+    { "postalcode": "30001", "name": "Ouargla" },
+    { "postalcode": "30002", "name": "Ain Beida" },
+    { "postalcode": "30003", "name": "Ngoussa" },
+    { "postalcode": "30004", "name": "Hassi Messaoud" },
+    { "postalcode": "30005", "name": "Rouissat" },
+    { "postalcode": "30006", "name": "Balidat Ameur" },
+    { "postalcode": "30007", "name": "Tebesbest" },
+    { "postalcode": "30008", "name": "Nezla" },
+    { "postalcode": "30009", "name": "Zaouia El Abidia" },
+    { "postalcode": "30010", "name": "Sidi Slimane" },
+    { "postalcode": "30011", "name": "Sidi Khouiled" },
+    { "postalcode": "30012", "name": "Hassi Ben Abdellah" },
+    { "postalcode": "30013", "name": "Touggourt" },
+    { "postalcode": "30014", "name": "El Hadjira" },
+    { "postalcode": "30015", "name": "Taibet" },
+    { "postalcode": "30016", "name": "Tamacine" },
+    { "postalcode": "30017", "name": "Benaceur" },
+    { "postalcode": "30018", "name": "Mnaguer" },
+    { "postalcode": "30019", "name": "Megarine" },
+    { "postalcode": "30020", "name": "El Allia" },
+    { "postalcode": "30021", "name": "El Borma" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Béchar",
+  "wilayacode": "8",
+  "communes": [
+    { "postalcode": "08001", "name": "Bechar" },
+    { "postalcode": "08002", "name": "Erg Ferradj" },
+    { "postalcode": "08003", "name": "Ouled Khoudir" },
+    { "postalcode": "08004", "name": "Meridja" },
+    { "postalcode": "08005", "name": "Timoudi" },
+    { "postalcode": "08006", "name": "Lahmar" },
+    { "postalcode": "08007", "name": "Beni Abbes" },
+    { "postalcode": "08008", "name": "Beni Ikhlef" },
+    { "postalcode": "08009", "name": "Mechraa Houari B" },
+    { "postalcode": "08010", "name": "Kenedsa" },
+    { "postalcode": "08011", "name": "Igli" },
+    { "postalcode": "08012", "name": "Tabalbala" },
+    { "postalcode": "08013", "name": "Taghit" },
+    { "postalcode": "08014", "name": "El Ouata" },
+    { "postalcode": "08015", "name": "Boukais" },
+    { "postalcode": "08016", "name": "Mogheul" },
+    { "postalcode": "08017", "name": "Abadla" },
+    { "postalcode": "08018", "name": "Kerzaz" },
+    { "postalcode": "08019", "name": "Ksabi" },
+    { "postalcode": "08020", "name": "Tamtert" },
+    { "postalcode": "08021", "name": "Beni Ounif" }
+  ]
+}

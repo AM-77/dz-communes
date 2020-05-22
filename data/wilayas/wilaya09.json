@@ -1,0 +1,31 @@
+{
+  "name": "Blida",
+  "wilayacode": "9",
+  "communes": [
+    { "postalcode": "09001", "name": "Blida" },
+    { "postalcode": "09002", "name": "Chebli" },
+    { "postalcode": "09003", "name": "Bouinan" },
+    { "postalcode": "09004", "name": "Oued El Alleug" },
+    { "postalcode": "09007", "name": "Ouled Yaich" },
+    { "postalcode": "09008", "name": "Chrea" },
+    { "postalcode": "09010", "name": "El Affroun" },
+    { "postalcode": "09011", "name": "Chiffa" },
+    { "postalcode": "09012", "name": "Hammam Melouane" },
+    { "postalcode": "09013", "name": "Ben Khlil" },
+    { "postalcode": "09014", "name": "Soumaa" },
+    { "postalcode": "09016", "name": "Mouzaia" },
+    { "postalcode": "09017", "name": "Souhane" },
+    { "postalcode": "09018", "name": "Meftah" },
+    { "postalcode": "09019", "name": "Ouled Selama" },
+    { "postalcode": "09020", "name": "Boufarik" },
+    { "postalcode": "09021", "name": "Larbaa" },
+    { "postalcode": "09022", "name": "Oued Djer" },
+    { "postalcode": "09023", "name": "Beni Tamou" },
+    { "postalcode": "09024", "name": "Bouarfa" },
+    { "postalcode": "09025", "name": "Beni Mered" },
+    { "postalcode": "09026", "name": "Bougara" },
+    { "postalcode": "09027", "name": "Guerrouaou" },
+    { "postalcode": "09028", "name": "Ain Romana" },
+    { "postalcode": "09029", "name": "Djebabra" }
+  ]
+}
